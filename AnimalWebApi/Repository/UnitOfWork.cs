@@ -9,16 +9,17 @@ namespace AnimalWebApi.Repository
     {
 
         private readonly AnimalDbContext _context;
-        private IGenericRepository<Animal> _animals;
+        private IAnimalRepository _animalRepository;
 
-        public UnitOfWork(AnimalDbContext context, IGenericRepository<Animal> animals)
+        public UnitOfWork(AnimalDbContext context, IAnimalRepository animalRepository)
         {
             _context = context;
-            _animals = animals;
+            _animalRepository = animalRepository;   
         }
 
 
-        public IGenericRepository<Animal> Animals => _animals ??= new GenericRepository<Animal>(_context);
+        
+        public IAnimalRepository AnimalRepository => _animalRepository ??= new AnimalRepository(_context);
 
         public void Dispose()
         {

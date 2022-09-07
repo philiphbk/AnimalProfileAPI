@@ -16,7 +16,7 @@ namespace AnimalWebApi.Repository
         }
 
 
-        public async Task<IList<T>> GetAll(Expression<Func<T, bool>> expression = null, Func<IQueryable<T>, IOrderedQueryable<T>> orderBy = null, List<string> includes = null)
+        public Task<IQueryable<T>> GetAll(Expression<Func<T, bool>> expression = null, List<string> includes = null)
         {
             IQueryable<T> query = _db;
             if (expression != null)
@@ -31,12 +31,11 @@ namespace AnimalWebApi.Repository
                 }
             }
 
-            if (orderBy != null)
-            {
-                query = orderBy(query);
-            }
-            return await query.AsNoTracking().ToListAsync();
+           
+            return Task.FromResult(query.AsNoTracking());
         }
+
+        
 
         public async Task<T> Get(Expression<Func<T, bool>> expression, List<string> includes = null)
         {

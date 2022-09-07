@@ -4,7 +4,7 @@ namespace AnimalWebApi.RepositoryInterface
 {
     public interface IUnitOfWork : IDisposable
     {
-        IGenericRepository<Animal> Animals { get; }
+        IAnimalRepository AnimalRepository { get; }
         Task Save();
     }
 }

@@ -1,6 +1,7 @@
 ﻿using AnimalWebApi.Data;
 using AnimalWebApi.Entities;
 using AnimalWebApi.RepositoryInterface;
+using AnimalWebApi.Service;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -10,26 +11,24 @@ namespace AnimalWebApi.Controllers
     [ApiController]
     public class AnimalController : ControllerBase
     {
-        
-        private readonly IUnitOfWork _unitOfWork;
-        private readonly Pagination _pagination;
 
-        public AnimalController(IUnitOfWork unitOfWork, Pagination pagination)
+        private readonly IAnimalService _animalService;
+       
+
+        public AnimalController(IAnimalService animalService)
         {
-            _unitOfWork = unitOfWork;
-            _pagination = pagination;
+            _animalService = animalService;
         }
 
 
 
-        //Get All Animals
+      
         [HttpGet]
-        public async Task<IActionResult> GetAllAnimals()
+        public async Task<IActionResult> GetAllAnimals([FromQuery] Pagination pagination)
         {
             try
             {
-                
-                var animals =  await _unitOfWork.Animals.GetAll();
+                var animals = await _animalService.GetPagedAnimals(pagination);
                 return Ok(animals);
             }
             catch
@@ -40,36 +39,15 @@ namespace AnimalWebApi.Controllers
 
 
 
-
-        //Get Animal by ID
-        [HttpGet("{id}")]
-        public async Task<IActionResult> GetAnimal(string id)
-        {
-            if (!ModelState.IsValid) return BadRequest(ModelState);
-            try
-            {
-
-                var result = await _unitOfWork.Animals.Get(x => x.Id == id);
-                return Ok(result);
-
-            }
-            catch 
-            {
-                return StatusCode(500, "Internal Server error");
-            }
-        }
-
-
-
-        //Create Animal
+        
+    
         [HttpPost("CreateAnimal")]
         public async Task<IActionResult> CreateAnimal([FromBody] Animal animal)
         {
             if (!ModelState.IsValid) return BadRequest(ModelState);
             try
             {
-                await _unitOfWork.Animals.Insert(animal);
-                await _unitOfWork.Save();
+                await _animalService.Insert(animal);
                 return Ok();
             }
             catch
@@ -78,16 +56,15 @@ namespace AnimalWebApi.Controllers
             }
         }
 
-        //Update Animal
+    
         [HttpPut("UpdateAnimal")]
         public async Task<IActionResult> UpdateAnimal(int id, [FromBody] Animal animal)
         {
             if (!ModelState.IsValid || id == 0) return BadRequest(ModelState);
             try
             {
-                _unitOfWork.Animals.Update(animal);
-                await _unitOfWork.Save();
-                return Accepted();
+               await _animalService.UpdateAnimal(animal);
+               return Accepted();
             }
             catch 
             {
@@ -95,20 +72,15 @@ namespace AnimalWebApi.Controllers
             }
         }
 
-        //Delete Animal
+  
         [HttpDelete("DeleteAnimal")]
         public async Task<IActionResult> DeleteAnimal(string id)
         {
             if (id == null) return BadRequest();
             try
             {
-                var animal = await _unitOfWork.Animals.Get(q => q.Id == id);
-                if (animal != null)
-                {
-                    await _unitOfWork.Animals.Delete(animal.Id);
-                }
-                await _unitOfWork.Save();
-
+                await _animalService.DeleteAnimal(id);
+            
                 return Ok();
             }
             catch 
