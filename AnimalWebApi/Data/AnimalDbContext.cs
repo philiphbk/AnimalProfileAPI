@@ -1,5 +1,4 @@
 ﻿using AnimalWebApi.Entities;
-using AnimalWebApi.MockData;
 using AnimalWebApi.Seeder;
 using Microsoft.EntityFrameworkCore;
 
