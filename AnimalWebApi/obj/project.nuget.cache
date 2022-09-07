@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "9iKQG44fj1xlii9kSImov8CkaHuX5EZchdZipLmtQncJxefcBi+4KGdwjNtobmwLgCa/NlvIba4ylhcRZM62Kw==",
+  "dgSpecHash": "e/iEoPnB7CcsFWhdsNHQh6bv3leby0vcq3sIEQfCZN4o+Cf1Xs2b3TIKg4BafOnRr0TeYn1ZnA1hhv/8iTpIrA==",
   "success": true,
   "projectFilePath": "C:\\Users\\damif\\source\\repos\\AnimalWebApi\\AnimalWebApi\\AnimalWebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\damif\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\damif\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\damif\\.nuget\\packages\\csvhelper\\28.0.1\\csvhelper.28.0.1.nupkg.sha512",
     "C:\\Users\\damif\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\damif\\.nuget\\packages\\irondrawing\\2022.9.8691\\irondrawing.2022.9.8691.nupkg.sha512",
     "C:\\Users\\damif\\.nuget\\packages\\ironxl.excel\\2022.9.8711\\ironxl.excel.2022.9.8711.nupkg.sha512",

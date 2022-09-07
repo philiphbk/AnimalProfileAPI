@@ -1,0 +1,1001 @@
+id,PetName,Breed,Age,Description
+1,Cook's tree boa,Corallus hortulanus cooki,25,Female
+2,"Seal, common",Phoca vitulina,22,Male
+3,"Heron, green-backed",Butorides striatus,16,Male
+4,"Boa, mexican",Boa constrictor mexicana,3,Agender
+5,"Sandgrouse, yellow-throated",Pterocles gutturalis,19,Female
+6,"Coatimundi, ring-tailed",Nasua nasua,28,Bigender
+7,"Ox, musk",Ovibos moschatus,22,Polygender
+8,"Zorro, common",Dusicyon thous,20,Male
+9,Carmine bee-eater,Merops nubicus,17,Female
+10,"Crane, stanley",Anthropoides paradisea,12,Female
+11,"Squirrel, red",Tamiasciurus hudsonicus,17,Male
+12,"Skunk, western spotted",Spilogale gracilis,27,Agender
+13,"Shrike, crimson-breasted",Laniaurius atrococcineus,6,Female
+14,Dusky rattlesnake,Crotalus triseriatus,14,Female
+15,Grizzly bear,Ursus arctos,21,Male
+16,Praying mantis (unidentified),unavailable,29,Male
+17,Giant anteater,Myrmecophaga tridactyla,11,Male
+18,Pale-throated three-toed sloth,Bradypus tridactylus,22,Male
+19,Long-crested hawk eagle,Lophoaetus occipitalis,30,Female
+20,"Monitor, water",Varanus salvator,4,Female
+21,Cottonmouth,Agkistrodon piscivorus,28,Male
+22,"Colobus, black and white",Colobus guerza,2,Male
+23,"Capuchin, black-capped",Cebus apella,29,Male
+24,Giant girdled lizard,Cordylus giganteus,27,Female
+25,Caribou,Rangifer tarandus,30,Male
+26,Land iguana,Conolophus subcristatus,21,Male
+27,"Caiman, spectacled",Caiman crocodilus,22,Female
+28,"Penguin, magellanic",Spheniscus magellanicus,11,Agender
+29,White-winged black tern,Chlidonias leucopterus,4,Agender
+30,Racer snake,Coluber constrictor,20,Female
+31,Blackish oystercatcher,Haematopus ater,25,Female
+32,Brazilian tapir,Tapirus terrestris,1,Male
+33,"Lemming, arctic",Dicrostonyx groenlandicus,19,Male
+34,Warthog,Phacochoerus aethiopus,29,Male
+35,Southern white-crowned shrike,Eurocephalus anguitimens,28,Female
+36,"Owl, great horned",Bubo virginianus,5,Female
+37,"Raccoon, common",Procyon lotor,18,Male
+38,"Stork, european",Ciconia ciconia,3,Male
+39,"Woodpecker, red-headed",Melanerpes erythrocephalus,10,Female
+40,Yellow-headed caracara,Milvago chimachima,29,Male
+41,"Monitor, white-throated",Varanus albigularis,5,Female
+42,"Snake, buttermilk",Coluber constrictor,25,Female
+43,Indian peacock,Pavo cristatus,18,Male
+44,Bare-faced go away bird,Lorythaixoides concolor,18,Female
+45,"Openbill, asian",Anastomus oscitans,26,Male
+46,Nubian bee-eater,Merops nubicus,25,Female
+47,Common eland,Taurotagus oryx,5,Female
+48,Brown and yellow marshbird,Pseudoleistes virescens,8,Male
+49,"Wombat, common",Vombatus ursinus,15,Genderfluid
+50,"Openbill, asian",Anastomus oscitans,22,Female
+51,Four-horned antelope,Tetracerus quadricornis,30,Male
+52,"Snake, buttermilk",Coluber constrictor,2,Male
+53,Miner's cat,Bassariscus astutus,28,Female
+54,Secretary bird,Sagittarius serpentarius,7,Male
+55,Common raccoon,Procyon lotor,14,Female
+56,Asiatic jackal,Canis aureus,15,Female
+57,"Wallaby, bennett's",Macropus rufogriseus,6,Female
+58,Emerald green tree boa,Boa caninus,4,Male
+59,Springbuck,Antidorcas marsupialis,2,Female
+60,Black-collared barbet,Lybius torquatus,4,Male
+61,European spoonbill,Platalea leucordia,12,Male
+62,Lesser flamingo,Phoeniconaias minor,26,Male
+63,White-tailed jackrabbit,Lepus townsendii,19,Male
+64,"Pheasant, ring-necked",Phasianus colchicus,22,Female
+65,Emu,Dromaeus novaehollandiae,28,Female
+66,Ferruginous hawk,Buteo regalis,4,Male
+67,Tyrant flycatcher,Myiarchus tuberculifer,18,Male
+68,"Macaque, rhesus",Macaca mulatta,4,Female
+69,White-tailed jackrabbit,Lepus townsendii,8,Female
+70,Long-crested hawk eagle,Lophoaetus occipitalis,15,Male
+71,"Cat, tiger",Dasyurus maculatus,16,Female
+72,"Sunbird, lesser double-collared",Nectarinia chalybea,11,Genderqueer
+73,Capybara,Hydrochoerus hydrochaeris,27,Male
+74,"Bird, black-throated butcher",Cracticus nigroagularis,15,Non-binary
+75,"Anteater, giant",Myrmecophaga tridactyla,18,Male
+76,Field flicker,Colaptes campestroides,2,Female
+77,"Tortoise, burmese black mountain",Manouria emys,23,Male
+78,"Monkey, vervet",Cercopithecus aethiops,8,Female
+79,Hudsonian godwit,Limosa haemastica,14,Male
+80,Arctic tern,Sterna paradisaea,13,Female
+81,"Gecko, barking",Phylurus milli,6,Male
+82,Common boubou shrike,Laniarius ferrugineus,3,Female
+83,Lapwing (unidentified),Vanellus sp.,23,Female
+84,King cormorant,Phalacrocorax albiventer,1,Female
+85,Pig-tailed macaque,Macaca nemestrina,1,Female
+86,"Legaan, water",Varanus salvator,30,Female
+87,Superb starling,Lamprotornis superbus,18,Male
+88,Roan antelope,Hippotragus equinus,10,Female
+89,White-fronted bee-eater,Merops bullockoides,12,Female
+90,Arctic tern,Sterna paradisaea,26,Male
+91,Spotted deer,Axis axis,19,Female
+92,Burrowing owl,Speotyte cuniculata,19,Male
+93,"Bulbul, black-eyed",Pycnonotus barbatus,20,Genderqueer
+94,Bohor reedbuck,Redunca redunca,28,Female
+95,"Tinamou, elegant crested",Eudromia elegans,26,Female
+96,Greater adjutant stork,Leptoptilus dubius,28,Male
+97,Mexican boa,Boa constrictor mexicana,3,Male
+98,Swamp deer,Cervus duvauceli,12,Female
+99,"Monitor, water",Varanus salvator,2,Male
+100,Hawk-headed parrot,Deroptyus accipitrinus,2,Male
+101,Desert spiny lizard,Sceloporus magister,13,Female
+102,"Dunnart, fat-tailed",Smithopsis crassicaudata,17,Female
+103,"Bear, black",Ursus americanus,28,Female
+104,American Virginia opossum,Didelphis virginiana,7,Male
+105,"Cat, european wild",Felis silvestris lybica,21,Female
+106,Pine snake (unidentified),Pituophis melanaleucus,7,Female
+107,Common waterbuck,Kobus defassa,19,Male
+108,White spoonbill,Platalea leucordia,1,Female
+109,Mara,Dolichitus patagonum,1,Agender
+110,"Peacock, indian",Pavo cristatus,3,Female
+111,"Gull, pacific",Gabianus pacificus,16,Agender
+112,Southern tamandua,Tamandua tetradactyla,14,Male
+113,Llama,Lama glama,30,Female
+114,Bennett's wallaby,Macropus rufogriseus,18,Female
+115,"Salmon, sockeye",Oncorhynchus nerka,5,Female
+116,"Monkey, bleeding heart",Theropithecus gelada,13,Male
+117,Rock dove,Columba livia,20,Male
+118,Defassa waterbuck,Kobus defassa,24,Female
+119,Sacred ibis,Threskionis aethiopicus,8,Male
+120,Gray rhea,Rhea americana,25,Female
+121,Sportive lemur,Lepilemur rufescens,14,Female
+122,Brush-tailed rat kangaroo,Bettongia penicillata,9,Male
+123,"Boa, cook's tree",Corallus hortulanus cooki,4,Male
+124,Black-tailed deer,Odocoileus hemionus,23,Female
+125,"Dove, little brown",Streptopelia senegalensis,29,Male
+126,"Deer, black-tailed",Odocoileus hemionus,12,Female
+127,Dromedary camel,Camelus dromedarius,16,Male
+128,"Iguana, marine",Amblyrhynchus cristatus,28,Male
+129,"Vulture, egyptian",Neophron percnopterus,20,Female
+130,"Duiker, common",Sylvicapra grimma,12,Male
+131,Oriental short-clawed otter,Aonyx cinerea,14,Female
+132,"Fox, grey",Vulpes cinereoargenteus,24,Non-binary
+133,"Lynx, african",Felis caracal,5,Female
+134,Mississippi alligator,Alligator mississippiensis,12,Female
+135,House sparrow,Passer domesticus,30,Female
+136,"Roadrunner, greater",Geococcyx californianus,1,Male
+137,"Booby, blue-footed",Sula nebouxii,30,Female
+138,Lapwing (unidentified),Vanellus sp.,9,Male
+139,Spectacled caiman,Caiman crocodilus,17,Male
+140,"Dragonfly, russian",Libellula quadrimaculata,24,Female
+141,African ground squirrel (unidentified),Xerus sp.,19,Female
+142,"Flicker, campo",Colaptes campestroides,20,Male
+143,Common mynah,Acridotheres tristis,11,Female
+144,"Bear, american black",Ursus americanus,21,Male
+145,"Constrictor, eastern boa",Acrantophis madagascariensis,23,Male
+146,"Owl, great horned",Bubo virginianus,1,Male
+147,Barking gecko,Phylurus milli,28,Female
+148,"Lynx, african",Felis caracal,19,Female
+149,Golden brush-tailed possum,Trichosurus vulpecula,28,Male
+150,African wild cat,Felis silvestris lybica,8,Genderqueer
+151,"Heron, giant",Ardea golieth,4,Male
+152,Arctic tern,Sterna paradisaea,15,Female
+153,"Goose, andean",Chloephaga melanoptera,7,Female
+154,Oribi,Ourebia ourebi,22,Female
+155,Springhare,Pedetes capensis,24,Female
+156,"Peccary, white-lipped",Tayassu pecari,29,Female
+157,"Crow, house",Corvus brachyrhynchos,4,Male
+158,"Porcupine, crested",Hystrix cristata,10,Male
+159,"Jackal, black-backed",Canis mesomelas,17,Female
+160,Flightless cormorant,Nannopterum harrisi,27,Female
+161,"Screamer, crested",Chauna torquata,25,Female
+162,Wolf spider,Lycosa godeffroyi,26,Female
+163,Yellow mongoose,Cynictis penicillata,10,Female
+164,"Colobus, magistrate black",Colobus guerza,24,Bigender
+165,"Fox, north american red",Vulpes vulpes,9,Female
+166,"Skua, long-tailed",Stercorarius longicausus,8,Male
+167,Masked booby,Sula dactylatra,15,Genderfluid
+168,Common langur,Semnopithecus entellus,22,Female
+169,Mexican beaded lizard,Heloderma horridum,25,Male
+170,Australian spiny anteater,Tachyglossus aculeatus,20,Female
+171,Eurasian hoopoe,Upupa epops,30,Male
+172,Lilac-breasted roller,Coracias caudata,28,Female
+173,Native cat,Dasyurus viverrinus,30,Female
+174,"Skunk, striped",Mephitis mephitis,10,Male
+175,"Bushbaby, large-eared",Galago crassicaudataus,19,Female
+176,Violet-crested turaco,Tauraco porphyrelophus,18,Female
+177,Wild boar,Sus scrofa,7,Female
+178,Javanese cormorant,Phalacrocorax niger,16,Genderfluid
+179,"Gecko, bent-toed",Cyrtodactylus louisiadensis,7,Male
+180,Emu,Dromaeus novaehollandiae,1,Male
+181,"Duiker, gray",Sylvicapra grimma,29,Female
+182,Great white pelican,Pelecans onocratalus,6,Non-binary
+183,Southern white-crowned shrike,Eurocephalus anguitimens,25,Female
+184,"Stork, black-necked",Ephippiorhynchus mycteria,3,Non-binary
+185,"Meerkat, red",Cynictis penicillata,22,Male
+186,"Pintail, bahama",Anas bahamensis,26,Polygender
+187,Mudskipper (unidentified),unavailable,3,Polygender
+188,"Egret, great",Casmerodius albus,21,Male
+189,Tokay gecko,Gekko gecko,5,Female
+190,Openbill stork,Anastomus oscitans,8,Male
+191,"Phalarope, northern",Phalaropus lobatus,20,Male
+192,"Meerkat, red",Cynictis penicillata,21,Male
+193,"Lion, african",Panthera leo,28,Female
+194,"Dunnart, fat-tailed",Smithopsis crassicaudata,5,Male
+195,Mexican beaded lizard,Heloderma horridum,30,Polygender
+196,Canadian tiger swallowtail butterfly,Papilio canadensis,4,Genderqueer
+197,"Lemur, lesser mouse",Microcebus murinus,6,Male
+198,White-winged tern,Chlidonias leucopterus,26,Female
+199,Feathertail glider,Acrobates pygmaeus,29,Female
+200,"Bulbul, black-eyed",Pycnonotus barbatus,16,Male
+201,"Dragon, frilled",Chlamydosaurus kingii,25,Male
+202,Salmon pink bird eater tarantula,Lasiodora parahybana,1,Male
+203,Eastern box turtle,Terrapene carolina,8,Male
+204,Springbok,Antidorcas marsupialis,10,Female
+205,"Skink, blue-tongued",Tiliqua scincoides,21,Female
+206,Burmese black mountain tortoise,Manouria emys,28,Female
+207,"Deer, swamp",Cervus duvauceli,8,Female
+208,Common genet,Genetta genetta,22,Male
+209,"Robin, kalahari scrub",Certotrichas paena,17,Female
+210,"Woodcock, american",Scolopax minor,7,Non-binary
+211,Pale white-eye,Zosterops pallidus,13,Male
+212,Red brocket,Mazama americana,26,Female
+213,"Screamer, southern",Chauna torquata,7,Female
+214,Southern tamandua,Tamandua tetradactyla,29,Female
+215,Rock dove,Columba livia,4,Male
+216,Carpet python,Morelia spilotes variegata,22,Female
+217,Blue and gold macaw,Ara ararauna,18,Female
+218,Dingo,Canis dingo,28,Male
+219,"Badger, eurasian",Meles meles,8,Female
+220,"Magpie, black-backed",Gymnorhina tibicen,28,Male
+221,American woodcock,Scolopax minor,3,Female
+222,Crab (unidentified),unavailable,16,Genderfluid
+223,"Shrike, southern white-crowned",Eurocephalus anguitimens,2,Female
+224,Wolf spider,Lycosa godeffroyi,1,Male
+225,Fringe-eared oryx,Oryx gazella callotis,18,Female
+226,"Corella, long-billed",Cacatua tenuirostris,17,Male
+227,Red-knobbed coot,Fulica cristata,23,Polygender
+228,Mexican beaded lizard,Heloderma horridum,18,Female
+229,"Heron, giant",Ardea golieth,3,Male
+230,"Stork, jabiru",Ephippiorhynchus mycteria,13,Female
+231,Black-winged stilt,Himantopus himantopus,16,Male
+232,Red brocket,Mazama americana,10,Male
+233,Malachite kingfisher,Corythornis cristata,13,Female
+234,Steenbok,Raphicerus campestris,20,Male
+235,"Crane, sarus",Grus antigone,3,Male
+236,Western palm tanager (unidentified),unavailable,24,Male
+237,"Pademelon, red-legged",Thylogale stigmatica,15,Female
+238,Onager,Equus hemionus,26,Polygender
+239,Arctic fox,Alopex lagopus,6,Female
+240,Klipspringer,Oreotragus oreotragus,28,Female
+241,Common mynah,Acridotheres tristis,30,Female
+242,"Bulbul, african red-eyed",Pycnonotus nigricans,24,Female
+243,"Ibis, sacred",Threskionis aethiopicus,13,Male
+244,Paca,Agouti paca,26,Male
+245,Black swan,Cygnus atratus,3,Female
+246,"Porcupine, crested",Hystrix cristata,20,Male
+247,Rufous tree pie,Dendrocitta vagabunda,1,Bigender
+248,"Stork, jabiru",Ephippiorhynchus mycteria,30,Male
+249,Common zebra,Equus burchelli,19,Male
+250,Kirk's dik dik,Madoqua kirkii,29,Male
+251,Red-cheeked cordon bleu,Uraeginthus bengalus,27,Male
+252,"Bear, sloth",Melursus ursinus,16,Female
+253,"Wambenger, red-tailed",Phascogale calura,16,Female
+254,"Weaver, chestnut",Ploceus rubiginosus,25,Male
+255,"Ox, musk",Ovibos moschatus,28,Male
+256,Asiatic wild ass,Equus hemionus,5,Male
+257,"Penguin, fairy",Eudyptula minor,18,Female
+258,Great horned owl,Bubo virginianus,29,Female
+259,"Bird, black-throated butcher",Cracticus nigroagularis,19,Male
+260,"Starling, superb",Lamprotornis superbus,9,Male
+261,Great kiskadee,Pitangus sulphuratus,21,Female
+262,"Penguin, galapagos",Spheniscus mendiculus,24,Male
+263,Red-shouldered glossy starling,Lamprotornis nitens,21,Female
+264,Black-tailed prairie dog,Cynomys ludovicianus,28,Female
+265,"Duiker, common",Sylvicapra grimma,23,Male
+266,Common dolphin,Delphinus delphis,25,Male
+267,"Trumpeter, dark-winged",Psophia viridis,9,Male
+268,Dabchick,Tachybaptus ruficollis,20,Male
+269,Common raccoon,Procyon lotor,30,Female
+270,Grizzly bear,Ursus arctos,9,Genderfluid
+271,Potoroo,Potorous tridactylus,30,Female
+272,"Lemming, collared",Dicrostonyx groenlandicus,5,Non-binary
+273,"Racer, american",Coluber constrictor,8,Male
+274,Blue-tongued lizard,Tiliqua scincoides,22,Male
+275,White-rumped vulture,Gyps bengalensis,6,Female
+276,"Stork, marabou",Leptoptilos crumeniferus,28,Female
+277,"Lemming, collared",Dicrostonyx groenlandicus,8,Male
+278,Bengal vulture,Gyps bengalensis,29,Male
+279,African porcupine,Hystrix cristata,5,Male
+280,Malagasy ground boa,Acrantophis madagascariensis,12,Female
+281,"Phalarope, northern",Phalaropus lobatus,14,Female
+282,Short-beaked echidna,Tachyglossus aculeatus,15,Male
+283,Indian porcupine,Hystrix indica,26,Male
+284,"Goose, cape barren",Cereopsis novaehollandiae,19,Male
+285,"Boa, mexican",Boa constrictor mexicana,25,Female
+286,Russian dragonfly,Libellula quadrimaculata,20,Female
+287,Yak,Bos mutus,27,Male
+288,Galapagos dove,Zenaida galapagoensis,28,Polygender
+289,"Lizard, frilled",Chlamydosaurus kingii,22,Female
+290,"Rat, desert kangaroo",Dipodomys deserti,7,Male
+291,"Ibis, glossy",Plegadis falcinellus,18,Female
+292,Common long-nosed armadillo,Dasypus novemcinctus,19,Female
+293,Red deer,Cervus elaphus,11,Male
+294,"Cat, miner's",Bassariscus astutus,3,Male
+295,Flightless cormorant,Nannopterum harrisi,1,Female
+296,"Starling, greater blue-eared",Lamprotornis chalybaeus,9,Male
+297,Savannah deer (unidentified),unavailable,17,Female
+298,Cape raven,Corvus albicollis,11,Female
+299,Southern tamandua,Tamandua tetradactyla,26,Male
+300,"Curlew, black",Haematopus ater,7,Male
+301,African fish eagle,Haliaetus vocifer,28,Male
+302,Hottentot teal,Anas punctata,21,Male
+303,"Bulbul, black-fronted",Pycnonotus nigricans,29,Female
+304,"Rabbit, eastern cottontail",Sylvilagus floridanus,3,Female
+305,Savannah deer (unidentified),unavailable,18,Female
+306,"Badger, american",Taxidea taxus,20,Genderfluid
+307,Short-nosed bandicoot,Isoodon obesulus,23,Female
+308,Komodo dragon,Varanus komodensis,20,Female
+309,White-throated kingfisher,Halcyon smyrnesis,26,Female
+310,Stone sheep,Ovis dalli stonei,20,Male
+311,"Tamandua, southern",Tamandua tetradactyla,8,Male
+312,"White-eye, pale",Zosterops pallidus,7,Genderfluid
+313,Goliath heron,Ardea golieth,6,Male
+314,Harbor seal,Phoca vitulina,9,Male
+315,"Dragon, komodo",Varanus komodensis,5,Female
+316,"Macaw, scarlet",Ara macao,1,Male
+317,"Hawk-eagle, crowned",Spizaetus coronatus,7,Female
+318,Swamp deer,Cervus duvauceli,17,Male
+319,"Glider, squirrel",Petaurus norfolcensis,26,Female
+320,"Dragon, ornate rock",Ctenophorus ornatus,23,Male
+321,Common wombat,Vombatus ursinus,14,Male
+322,Columbian rainbow boa,Epicrates cenchria maurus,2,Male
+323,Great egret,Casmerodius albus,21,Female
+324,"Egret, great",Casmerodius albus,22,Male
+325,Striped hyena,Hyaena hyaena,16,Male
+326,Serval,Felis serval,30,Male
+327,"Fox, blue",Alopex lagopus,30,Male
+328,"Darter, african",Anhinga rufa,6,Female
+329,South American sea lion,Otaria flavescens,26,Male
+330,"Tern, royal",Thalasseus maximus,13,Male
+331,Crested porcupine,Hystrix cristata,30,Male
+332,"Cat, tiger",Dasyurus maculatus,13,Female
+333,Blue wildebeest,Connochaetus taurinus,2,Male
+334,"Francolin, coqui",Francolinus coqui,19,Bigender
+335,"Cat, toddy",Paradoxurus hermaphroditus,4,Male
+336,Red-breasted nuthatch,Sitta canadensis,26,Female
+337,"Baboon, savanna",Papio cynocephalus,13,Male
+338,Red deer,Cervus elaphus,20,Male
+339,Golden-mantled ground squirrel,Spermophilus lateralis,25,Male
+340,"Goose, andean",Chloephaga melanoptera,10,Female
+341,"Oystercatcher, blackish",Haematopus ater,5,Female
+342,Crested porcupine,Hystrix cristata,3,Agender
+343,"Coatimundi, ring-tailed",Nasua nasua,16,Female
+344,Yellow-crowned night heron,Nyctanassa violacea,1,Female
+345,Pied cormorant,Phalacrocorax varius,23,Male
+346,"Lion, african",Panthera leo,11,Female
+347,African skink,Mabuya spilogaster,10,Female
+348,White-throated monitor,Varanus albigularis,24,Bigender
+349,"Langur, common",Semnopithecus entellus,23,Male
+350,Feral rock pigeon,Columba livia,13,Female
+351,Euro wallaby,Macropus robustus,27,Male
+352,African black crake,Limnocorax flavirostra,23,Male
+353,"Bleu, red-cheeked cordon",Uraeginthus bengalus,8,Female
+354,"Caracara, yellow-headed",Milvago chimachima,25,Male
+355,Lappet-faced vulture,Aegypius tracheliotus,5,Male
+356,Fringe-eared oryx,Oryx gazella callotis,5,Non-binary
+357,Striped skunk,Mephitis mephitis,27,Male
+358,Elegant crested tinamou,Eudromia elegans,12,Male
+359,"Bat, little brown",Myotis lucifugus,21,Male
+360,"Dik, kirk's dik",Madoqua kirkii,17,Male
+361,"Mynah, indian",Acridotheres tristis,4,Male
+362,Australian masked owl,Tyto novaehollandiae,23,Female
+363,"Lizard, collared",Crotaphytus collaris,22,Female
+364,Stanley bustard,Neotis denhami,15,Polygender
+365,Tawny eagle,Anitibyx armatus,7,Male
+366,"Heron, black-crowned night",Nycticorax nycticorax,24,Male
+367,"Pelican, brown",Pelecanus occidentalis,10,Female
+368,"Porcupine, african",Hystrix cristata,26,Male
+369,Egyptian vulture,Neophron percnopterus,3,Male
+370,"Alligator, american",Alligator mississippiensis,23,Agender
+371,"Otter, brazilian",Pteronura brasiliensis,6,Male
+372,Griffon vulture,Gyps fulvus,2,Male
+373,Cuis,Microcavia australis,10,Female
+374,Crown of thorns starfish,Acanthaster planci,28,Non-binary
+375,Denham's bustard,Neotis denhami,2,Female
+376,"Sungazer, yellow-brown",Cordylus giganteus,27,Female
+377,Crab-eating fox,Dusicyon thous,21,Male
+378,Pallas's fish eagle,Haliaeetus leucoryphus,28,Female
+379,Asian openbill,Anastomus oscitans,22,Female
+380,Bushbuck,Tragelaphus scriptus,29,Female
+381,"Fox, grey",Vulpes cinereoargenteus,1,Male
+382,Northern fur seal,Callorhinus ursinus,1,Male
+383,"Parakeet, rose-ringed",Psittacula krameri,2,Non-binary
+384,Nile crocodile,Crocodylus niloticus,10,Male
+385,"Bustard, kori",Choriotis kori,13,Male
+386,Blue-breasted cordon bleu,Uraeginthus angolensis,26,Male
+387,Dusky rattlesnake,Crotalus triseriatus,30,Male
+388,African elephant,Loxodonta africana,11,Female
+389,White-browed owl,Ninox superciliaris,2,Male
+390,Woodchuck,Marmota monax,19,Male
+391,Brush-tailed rat kangaroo,Bettongia penicillata,26,Male
+392,"Goose, cereopsis",Cereopsis novaehollandiae,7,Polygender
+393,Neotropic cormorant,Phalacrocorax brasilianus,25,Non-binary
+394,"Whale, long-finned pilot",Globicephala melas,6,Male
+395,Ornate rock dragon,Ctenophorus ornatus,23,Male
+396,"Fox, grey",Vulpes cinereoargenteus,19,Male
+397,Springbok,Antidorcas marsupialis,15,Female
+398,"Skua, long-tailed",Stercorarius longicausus,12,Male
+399,Crowned eagle,Spizaetus coronatus,11,Female
+400,Ornate rock dragon,Ctenophorus ornatus,23,Male
+401,Western palm tanager (unidentified),unavailable,12,Male
+402,African wild cat,Felis silvestris lybica,18,Male
+403,Hoary marmot,Marmota caligata,9,Male
+404,Pied butcher bird,Cracticus nigroagularis,6,Female
+405,Brown pelican,Pelecanus occidentalis,17,Female
+406,Ringtail cat,Bassariscus astutus,16,Male
+407,Jabiru stork,Ephippiorhynchus mycteria,30,Female
+408,Black vulture,Aegypius tracheliotus,27,Female
+409,Scaly-breasted lorikeet,Trichoglossus chlorolepidotus,22,Female
+410,"Shrike, southern white-crowned",Eurocephalus anguitimens,9,Female
+411,Steller's sea lion,Eumetopias jubatus,2,Female
+412,"Grouse, greater sage",Centrocercus urophasianus,12,Female
+413,Praying mantis (unidentified),unavailable,21,Male
+414,"Jackal, black-backed",Canis mesomelas,22,Female
+415,"Tortoise, burmese brown mountain",Manouria emys,10,Male
+416,Reindeer,Rangifer tarandus,11,Non-binary
+417,"Goose, greylag",Anser anser,21,Male
+418,"Ibis, puna",Plegadis ridgwayi,30,Female
+419,"Heron, green-backed",Butorides striatus,10,Female
+420,"Lorikeet, scaly-breasted",Trichoglossus chlorolepidotus,29,Female
+421,Common wombat,Vombatus ursinus,28,Male
+422,Rock dove,Columba livia,2,Male
+423,Large cormorant,Phalacrocorax carbo,30,Male
+424,Long-crested hawk eagle,Lophoaetus occipitalis,2,Male
+425,African buffalo,Snycerus caffer,19,Male
+426,Greater adjutant stork,Leptoptilus dubius,11,Polygender
+427,Buttermilk snake,Coluber constrictor,16,Male
+428,"Heron, green",Butorides striatus,3,Female
+429,Red-tailed phascogale,Phascogale calura,8,Female
+430,Collared lemming,Dicrostonyx groenlandicus,14,Female
+431,Ocelot,Felis pardalis,16,Female
+432,"Barbet, black-collared",Lybius torquatus,20,Male
+433,Black kite,Milvus migrans,9,Male
+434,Paddy heron (unidentified),unavailable,3,Polygender
+435,Galapagos mockingbird,Nesomimus trifasciatus,25,Male
+436,Yellow-brown sungazer,Cordylus giganteus,9,Female
+437,"Goose, cereopsis",Cereopsis novaehollandiae,2,Female
+438,South American meadowlark (unidentified),unavailable,1,Male
+439,Peregrine falcon,Falco peregrinus,25,Bigender
+440,Bent-toed gecko,Cyrtodactylus louisiadensis,29,Male
+441,Feathertail glider,Acrobates pygmaeus,30,Male
+442,Red sheep,Ovis ammon,21,Male
+443,Cheetah,Acinynox jubatus,15,Male
+444,"Owl, burrowing",Speotyte cuniculata,23,Male
+445,"Lion, asian",Panthera leo persica,1,Male
+446,Eastern cottontail rabbit,Sylvilagus floridanus,19,Male
+447,"Alligator, american",Alligator mississippiensis,18,Female
+448,"Lorikeet, scaly-breasted",Trichoglossus chlorolepidotus,16,Female
+449,Indian red admiral,Vanessa indica,25,Male
+450,"Capuchin, black-capped",Cebus apella,22,Male
+451,Clark's nutcracker,Nucifraga columbiana,13,Female
+452,Mudskipper (unidentified),unavailable,9,Female
+453,"Bunting, crested",Melophus lathami,14,Female
+454,Little cormorant,Phalacrocorax niger,7,Female
+455,Black-throated butcher bird,Cracticus nigroagularis,20,Female
+456,Mountain duck,Hymenolaimus malacorhynchus,20,Male
+457,"Ibis, puna",Plegadis ridgwayi,4,Female
+458,"Crow, pied",Corvus albus,2,Male
+459,Kelp gull,Larus dominicanus,21,Male
+460,"Dolphin, bottle-nose",Tursiops truncatus,24,Male
+461,Asian red fox,Vulpes vulpes,26,Male
+462,Argalis,Ovis ammon,14,Female
+463,Chacma baboon,Papio ursinus,11,Bigender
+464,"Boa, malagasy ground",Acrantophis madagascariensis,17,Male
+465,Kaffir cat,Felis silvestris lybica,20,Male
+466,"Sandgrouse, yellow-throated",Pterocles gutturalis,10,Female
+467,"Dove, little brown",Streptopelia senegalensis,8,Male
+468,Zorilla,Ictonyx striatus,16,Female
+469,"Boa, columbian rainbow",Epicrates cenchria maurus,15,Genderfluid
+470,Glossy starling (unidentified),Lamprotornis sp.,6,Female
+471,American woodcock,Scolopax minor,8,Male
+472,Turkey vulture,Cathartes aura,19,Male
+473,"Falcon, peregrine",Falco peregrinus,16,Bigender
+474,Long-tailed skua,Stercorarius longicausus,4,Female
+475,Woylie,Bettongia penicillata,14,Male
+476,"Ibis, glossy",Plegadis falcinellus,21,Male
+477,"Kangaroo, eastern grey",Macropus giganteus,29,Male
+478,"Marmot, hoary",Marmota caligata,5,Female
+479,Agouti,Dasyprocta leporina,7,Male
+480,Red-tailed phascogale,Phascogale calura,14,Male
+481,Asiatic jackal,Canis aureus,8,Male
+482,Savanna baboon,Papio cynocephalus,7,Male
+483,Sun gazer,Cordylus giganteus,23,Male
+484,"Langur, common",Semnopithecus entellus,27,Female
+485,Rufous-collared sparrow,Zonotrichia capensis,16,Female
+486,Common eland,Taurotagus oryx,7,Female
+487,"Rhea, greater",Rhea americana,5,Female
+488,"Cockatoo, long-billed",Cacatua tenuirostris,12,Female
+489,"Gull, southern black-backed",Larus dominicanus,1,Male
+490,Giant anteater,Myrmecophaga tridactyla,3,Genderfluid
+491,Carmine bee-eater,Merops nubicus,4,Female
+492,"Lemur, sportive",Lepilemur rufescens,14,Female
+493,"Hartebeest, coke's",Alcelaphus buselaphus cokii,6,Male
+494,"Pigeon, feral rock",Columba livia,15,Female
+495,"Woodpecker, red-headed",Melanerpes erythrocephalus,14,Female
+496,"Lourie, grey",Lorythaixoides concolor,7,Genderqueer
+497,Common langur,Semnopithecus entellus,18,Male
+498,Black bear,Ursus americanus,7,Male
+499,Greylag goose,Anser anser,8,Male
+500,Brazilian otter,Pteronura brasiliensis,4,Male
+501,Ring-tailed lemur,Lemur catta,1,Female
+502,South American meadowlark (unidentified),unavailable,22,Female
+503,Small-spotted genet,Genetta genetta,3,Male
+504,Savannah deer (unidentified),unavailable,9,Female
+505,Red howler monkey,Alouatta seniculus,18,Male
+506,Aardwolf,Proteles cristatus,1,Female
+507,Galapagos mockingbird,Nesomimus trifasciatus,26,Female
+508,Tree porcupine,Coendou prehensilis,23,Female
+509,"Stork, white",Ciconia ciconia,20,Female
+510,Cape starling,Lamprotornis nitens,1,Male
+511,Scottish highland cow,Bos taurus,22,Female
+512,Greater adjutant stork,Leptoptilus dubius,16,Male
+513,"Starling, cape",Lamprotornis nitens,27,Male
+514,Laughing kookaburra,Dacelo novaeguineae,5,Female
+515,African snake (unidentified),unavailable,18,Genderqueer
+516,Bottle-nose dolphin,Tursiops truncatus,24,Male
+517,Yellow-throated sandgrouse,Pterocles gutturalis,22,Female
+518,"Wallaby, tammar",Macropus eugenii,12,Female
+519,"Nutcracker, clark's",Nucifraga columbiana,1,Male
+520,Woodrat (unidentified),Neotoma sp.,26,Female
+521,Malay squirrel (unidentified),unavailable,15,Male
+522,"Dove, galapagos",Zenaida galapagoensis,9,Female
+523,Brush-tailed bettong,Bettongia penicillata,4,Female
+524,"Skink, african",Mabuya spilogaster,15,Male
+525,Levaillant's barbet,Trachyphonus vaillantii,30,Male
+526,Desert kangaroo rat,Dipodomys deserti,27,Female
+527,Python (unidentified),unavailable,3,Female
+528,"Eagle, pallas's fish",Haliaeetus leucoryphus,20,Female
+529,Chameleon (unidentified),Chamaelo sp.,26,Female
+530,"Otter, north american river",Lutra canadensis,25,Female
+531,"Trotter, lily",Actophilornis africanus,7,Male
+532,American badger,Taxidea taxus,22,Female
+533,"Coot, red-knobbed",Fulica cristata,10,Male
+534,"Hawk, red-tailed",Buteo jamaicensis,18,Female
+535,African ground squirrel (unidentified),Xerus sp.,4,Male
+536,"Zebra, common",Equus burchelli,11,Female
+537,European spoonbill,Platalea leucordia,14,Female
+538,Laughing kookaburra,Dacelo novaeguineae,9,Female
+539,"Macaque, pig-tailed",Macaca nemestrina,23,Female
+540,"Gecko, bent-toed",Cyrtodactylus louisiadensis,7,Male
+541,Red-tailed hawk,Buteo jamaicensis,7,Male
+542,"Owl, great horned",Bubo virginianus,26,Male
+543,Sea birds (unidentified),unavailable,17,Female
+544,Numbat,Myrmecobius fasciatus,23,Genderfluid
+545,Coqui partridge,Francolinus coqui,28,Female
+546,Komodo dragon,Varanus komodensis,13,Female
+547,Bare-faced go away bird,Lorythaixoides concolor,12,Non-binary
+548,"Cow, scottish highland",Bos taurus,25,Male
+549,"Bison, american",Bison bison,17,Female
+550,Carmine bee-eater,Merops nubicus,8,Genderqueer
+551,"Squirrel, smith's bush",Paraxerus cepapi,22,Female
+552,Pied cormorant,Phalacrocorax varius,2,Male
+553,"Wagtail, african pied",Motacilla aguimp,25,Female
+554,"Crab, red lava",Graspus graspus,8,Male
+555,"Crake, african black",Limnocorax flavirostra,27,Female
+556,"Snake, eastern indigo",Drymarchon corias couperi,12,Male
+557,"Kookaburra, laughing",Dacelo novaeguineae,8,Genderfluid
+558,Silver-backed jackal,Canis mesomelas,12,Female
+559,"Macaque, rhesus",Macaca mulatta,3,Male
+560,Suricate,Suricata suricatta,18,Female
+561,Spur-winged goose,Plectopterus gambensis,22,Female
+562,"Chickadee, black-capped",Parus atricapillus,23,Polygender
+563,Black and white colobus,Colobus guerza,16,Female
+564,"Puma, south american",Felis concolor,20,Male
+565,Nelson ground squirrel,Ammospermophilus nelsoni,5,Male
+566,"Peacock, indian",Pavo cristatus,17,Male
+567,Silver-backed fox,Vulpes chama,23,Female
+568,"Partridge, coqui",Francolinus coqui,21,Female
+569,"Rhinoceros, white",Ceratotherium simum,4,Female
+570,Ant (unidentified),unavailable,20,Female
+571,Four-striped grass mouse,Rhabdomys pumilio,20,Female
+572,"Gonolek, burchell's",Laniaurius atrococcineus,16,Female
+573,"Snake, tiger",Notechis semmiannulatus,22,Male
+574,Nile crocodile,Crocodylus niloticus,25,Female
+575,"Dog, bush",Speothos vanaticus,4,Female
+576,"Alligator, american",Alligator mississippiensis,2,Male
+577,Blackish oystercatcher,Haematopus ater,23,Female
+578,Ocelot,Felis pardalis,7,Male
+579,"White-eye, pale",Zosterops pallidus,17,Male
+580,Silver-backed fox,Vulpes chama,25,Male
+581,"Gull, lava",Larus fuliginosus,11,Female
+582,Old world fruit bat (unidentified),unavailable,5,Male
+583,Pygmy possum,Acrobates pygmaeus,25,Male
+584,"Kite, black",Milvus migrans,28,Male
+585,"White-eye, cape",Zosterops pallidus,17,Female
+586,"Gull, silver",Larus novaehollandiae,15,Male
+587,"Hoopoe, eurasian",Upupa epops,21,Male
+588,Eastern dwarf mongoose,Helogale undulata,1,Female
+589,Gila monster,Heloderma horridum,20,Male
+590,"Beaver, eurasian",Castor fiber,12,Male
+591,Red-headed woodpecker,Melanerpes erythrocephalus,14,Male
+592,Mule deer,Odocoileus hemionus,24,Female
+593,King vulture,Sarcorhamphus papa,2,Female
+594,Common long-nosed armadillo,Dasypus novemcinctus,13,Agender
+595,"Squirrel, eastern fox",Sciurus niger,2,Male
+596,Kafue flats lechwe,Kobus leche robertsi,27,Female
+597,Common eland,Taurotagus oryx,30,Male
+598,Sidewinder,Crotalus cerastes,4,Male
+599,"Hornbill, red-billed",Tockus erythrorhyncus,30,Male
+600,Crimson-breasted shrike,Laniaurius atrococcineus,20,Female
+601,"Plover, blacksmith",Vanellus armatus,22,Male
+602,Warthog,Phacochoerus aethiopus,23,Female
+603,Ferruginous hawk,Buteo regalis,1,Female
+604,Red kangaroo,Macropus rufus,4,Male
+605,"Penguin, galapagos",Spheniscus mendiculus,16,Female
+606,"Oryx, beisa",Oryx gazella,1,Agender
+607,"Crow, house",Corvus brachyrhynchos,19,Female
+608,Common long-nosed armadillo,Dasypus novemcinctus,28,Female
+609,Paca,Agouti paca,4,Non-binary
+610,Emerald green tree boa,Boa caninus,22,Female
+611,"Rhea, common",Rhea americana,13,Polygender
+612,Pine snake (unidentified),Pituophis melanaleucus,18,Male
+613,"Deer, spotted",Axis axis,19,Male
+614,"Heron, yellow-crowned night",Nyctanassa violacea,7,Male
+615,"Gull, silver",Larus novaehollandiae,1,Female
+616,House crow,Corvus brachyrhynchos,16,Male
+617,"Falcon, peregrine",Falco peregrinus,11,Non-binary
+618,White-necked stork,Ciconia episcopus,9,Female
+619,Butterfly (unidentified),unavailable,2,Male
+620,Bushpig,Potamochoerus porcus,11,Female
+621,White-bellied sea eagle,Haliaetus leucogaster,7,Female
+622,"Eagle, african fish",Haliaetus vocifer,23,Female
+623,"Ibis, sacred",Threskionis aethiopicus,18,Female
+624,"Lynx, african",Felis caracal,3,Male
+625,Large cormorant,Phalacrocorax carbo,17,Agender
+626,"Beaver, american",Castor canadensis,25,Female
+627,Black rhinoceros,Diceros bicornis,25,Male
+628,"Otter, small-clawed",Aonyx cinerea,4,Male
+629,Royal tern,Thalasseus maximus,18,Male
+630,Scarlet macaw,Ara macao,20,Male
+631,"Darter, african",Anhinga rufa,25,Female
+632,"Magpie, black-backed",Gymnorhina tibicen,25,Male
+633,"Macaw, green-winged",Ara chloroptera,7,Female
+634,Black-tailed prairie dog,Cynomys ludovicianus,2,Female
+635,"Siskin, pine",Carduelis pinus,1,Male
+636,Snow goose,Anser caerulescens,29,Female
+637,"Capuchin, brown",Cebus apella,2,Male
+638,"Phascogale, brush-tailed",Phascogale tapoatafa,8,Female
+639,Andean goose,Chloephaga melanoptera,27,Female
+640,Indian jackal,Canis aureus,14,Female
+641,Sally lightfoot crab,Graspus graspus,15,Genderfluid
+642,Western patch-nosed snake,Salvadora hexalepis,5,Female
+643,"Cormorant, little",Phalacrocorax niger,28,Non-binary
+644,Spotted deer,Axis axis,30,Female
+645,"Drongo, fork-tailed",Dicrurus adsimilis,30,Male
+646,Giraffe,Giraffe camelopardalis,4,Female
+647,"Heron, striated",Butorides striatus,8,Female
+648,Kaffir cat,Felis silvestris lybica,20,Male
+649,"Cormorant, javanese",Phalacrocorax niger,20,Female
+650,Rufous-collared sparrow,Zonotrichia capensis,8,Female
+651,"Macaw, blue and yellow",Ara ararauna,19,Male
+652,White-throated monitor,Varanus albigularis,27,Female
+653,"Goose, cereopsis",Cereopsis novaehollandiae,29,Female
+654,"Toucan, red-billed",Ramphastos tucanus,23,Female
+655,Great horned owl,Bubo virginianus,14,Male
+656,"Antechinus, brown",Antechinus flavipes,6,Male
+657,American beaver,Castor canadensis,4,Male
+658,"Kangaroo, western grey",Macropus fuliginosus,25,Female
+659,"Chickadee, black-capped",Parus atricapillus,28,Female
+660,"Nutcracker, clark's",Nucifraga columbiana,12,Female
+661,Indian star tortoise,Geochelone elegans,16,Male
+662,"Antechinus, brown",Antechinus flavipes,10,Male
+663,"Kangaroo, jungle",Macropus agilis,13,Male
+664,Small Indian mongoose,Herpestes javanicus,23,Female
+665,"Roadrunner, greater",Geococcyx californianus,16,Female
+666,"Otter, small-clawed",Aonyx cinerea,27,Male
+667,Praying mantis (unidentified),unavailable,19,Female
+668,"Goose, snow",Anser caerulescens,19,Female
+669,"Turaco, violet-crested",Tauraco porphyrelophus,23,Male
+670,"Turtle, long-necked",Chelodina longicollis,1,Genderqueer
+671,King cormorant,Phalacrocorax albiventer,4,Female
+672,Tarantula,Lasiodora parahybana,9,Male
+673,Arctic lemming,Dicrostonyx groenlandicus,21,Male
+674,"Flamingo, chilean",Phoenicopterus chilensis,8,Female
+675,Hoary marmot,Marmota caligata,10,Female
+676,Galapagos sea lion,Zalophus californicus,7,Male
+677,"Cat, long-tailed spotted",Felis wiedi or Leopardus weidi,29,Female
+678,Carmine bee-eater,Merops nubicus,27,Female
+679,Secretary bird,Sagittarius serpentarius,9,Male
+680,Small-toothed palm civet,Arctogalidia trivirgata,21,Female
+681,"Gull, lava",Larus fuliginosus,26,Non-binary
+682,"Genet, small-spotted",Genetta genetta,24,Male
+683,"Eland, common",Taurotagus oryx,19,Female
+684,"Crane, sarus",Grus antigone,5,Female
+685,"Devil, tasmanian",Sarcophilus harrisii,29,Female
+686,Bush dog,Speothos vanaticus,13,Female
+687,Puku,Kobus vardonii vardoni,12,Male
+688,"Flicker, field",Colaptes campestroides,1,Female
+689,"Badger, honey",Mellivora capensis,28,Female
+690,African lynx,Felis caracal,8,Female
+691,"Tortoise, desert",Gopherus agassizii,12,Female
+692,"Parrot, hawk-headed",Deroptyus accipitrinus,20,Male
+693,"Rattlesnake, horned",Crotalus cerastes,19,Male
+694,Sloth bear,Melursus ursinus,1,Female
+695,Madagascar hawk owl,Ninox superciliaris,3,Female
+696,"Civet, small-toothed palm",Arctogalidia trivirgata,2,Female
+697,"Porcupine, african",Hystrix cristata,23,Male
+698,Indian mynah,Acridotheres tristis,20,Female
+699,Gemsbok,Oryx gazella,17,Female
+700,Stanley crane,Anthropoides paradisea,5,Male
+701,"Pigeon, feral rock",Columba livia,18,Female
+702,Pocket gopher (unidentified),unavailable,12,Female
+703,"Kingfisher, malachite",Corythornis cristata,21,Male
+704,Eurasian hoopoe,Upupa epops,20,Male
+705,Slender-billed cockatoo,Cacatua tenuirostris,2,Female
+706,Miner's cat,Bassariscus astutus,27,Female
+707,Wattled crane,Bugeranus caruncalatus,20,Agender
+708,Barasingha deer,Cervus duvauceli,6,Female
+709,"Pelican, great white",Pelecans onocratalus,12,Male
+710,"Duiker, gray",Sylvicapra grimma,15,Female
+711,"Quail, gambel's",Callipepla gambelii,8,Female
+712,Hudsonian godwit,Limosa haemastica,8,Female
+713,"Tortoise, galapagos",Geochelone elephantopus,19,Male
+714,"Dragon, netted rock",Ctenophorus ornatus,17,Female
+715,"Seal, common",Phoca vitulina,26,Female
+716,Gray duiker,Sylvicapra grimma,25,Male
+717,American woodcock,Scolopax minor,14,Female
+718,"Ox, musk",Ovibos moschatus,22,Male
+719,Ring-tailed lemur,Lemur catta,15,Female
+720,Northern elephant seal,Mirounga angustirostris,20,Male
+721,"Iguana, marine",Amblyrhynchus cristatus,18,Female
+722,Pocket gopher (unidentified),unavailable,6,Female
+723,African elephant,Loxodonta africana,18,Female
+724,"Kangaroo, eastern grey",Macropus giganteus,28,Male
+725,"Stork, black-necked",Ephippiorhynchus mycteria,24,Male
+726,White-nosed coatimundi,Nasua narica,29,Female
+727,"Rhinoceros, square-lipped",Ceratotherium simum,28,Male
+728,Asian water buffalo,Bubalus arnee,21,Female
+729,"Pelican, brown",Pelecanus occidentalis,11,Female
+730,"Armadillo, nine-banded",Dasypus novemcinctus,25,Female
+731,"Lion, galapagos sea",Zalophus californicus,9,Female
+732,Green-backed heron,Butorides striatus,30,Female
+733,Lesser mouse lemur,Microcebus murinus,29,Female
+734,"Heron, green-backed",Butorides striatus,1,Female
+735,Black-tailed tree creeper,Climacteris melanura,3,Male
+736,Common zorro,Dusicyon thous,15,Female
+737,"Capuchin, white-fronted",Cebus albifrons,13,Male
+738,"Whale, southern right",Eubalaena australis,2,Female
+739,"Bird, pied butcher",Cracticus nigroagularis,3,Male
+740,Collared peccary,Tayassu tajacu,19,Female
+741,"Monkey, black spider",Ateles paniscus,2,Male
+742,"Tern, white-winged black",Chlidonias leucopterus,22,Female
+743,"Bustard, denham's",Neotis denhami,18,Female
+744,Green-winged macaw,Ara chloroptera,2,Female
+745,"Kangaroo, black-faced",Macropus fuliginosus,25,Female
+746,"Possum, common brushtail",Trichosurus vulpecula,21,Female
+747,Tsessebe,Damaliscus lunatus,1,Female
+748,"Quoll, eastern",Dasyurus viverrinus,14,Female
+749,Dama wallaby,Macropus eugenii,5,Female
+750,"Lapwing, southern",Vanellus chilensis,20,Female
+751,"Crow, american",Corvus brachyrhynchos,19,Female
+752,Puku,Kobus vardonii vardoni,21,Bigender
+753,"Turtle, eastern box",Terrapene carolina,7,Male
+754,"Badger, american",Taxidea taxus,6,Female
+755,"Boa, cook's tree",Corallus hortulanus cooki,1,Male
+756,Jaguar,Panthera onca,7,Female
+757,"Alligator, american",Alligator mississippiensis,14,Male
+758,"Phascogale, red-tailed",Phascogale calura,3,Male
+759,"Francolin, swainson's",Francolinus swainsonii,18,Male
+760,"Lion, australian sea",Neophoca cinerea,25,Female
+761,Toddy cat,Paradoxurus hermaphroditus,6,Male
+762,Osprey,Pandon haliaetus,4,Male
+763,"Goldeneye, barrows",Bucephala clangula,1,Agender
+764,"Wallaby, bennett's",Macropus rufogriseus,22,Male
+765,"Cockatoo, red-breasted",Eolophus roseicapillus,19,Male
+766,Rainbow lory,Trichoglossus haematodus moluccanus,22,Female
+767,Eastern quoll,Dasyurus viverrinus,16,Male
+768,"Dove, rock",Columba livia,16,Male
+769,"Nuthatch, red-breasted",Sitta canadensis,24,Male
+770,Grey phalarope,Phalaropus fulicarius,27,Male
+771,"Hawk, ferruginous",Buteo regalis,10,Male
+772,Kaffir cat,Felis silvestris lybica,6,Female
+773,Common long-nosed armadillo,Dasypus novemcinctus,27,Female
+774,Civet (unidentified),unavailable,4,Male
+775,"Moccasin, water",Agkistrodon piscivorus,30,Male
+776,Ring dove,Columba palumbus,28,Male
+777,Arctic hare,Lepus arcticus,25,Female
+778,"Glider, squirrel",Petaurus norfolcensis,4,Female
+779,"Porcupine, indian",Hystrix indica,22,Female
+780,"Tarantula, salmon pink bird eater",Lasiodora parahybana,19,Male
+781,Pacific gull,Gabianus pacificus,30,Male
+782,"Deer, mule",Odocoileus hemionus,22,Male
+783,Olive baboon,Papio cynocephalus,24,Female
+784,Turkey vulture,Cathartes aura,18,Agender
+785,"Tamandua, southern",Tamandua tetradactyla,1,Male
+786,Cobra (unidentified),Naja sp.,4,Male
+787,Northern fur seal,Callorhinus ursinus,14,Bigender
+788,"Cat, tiger",Dasyurus maculatus,17,Male
+789,"Dove, white-winged",Zenaida asiatica,17,Male
+790,Gaur,Bos frontalis,6,Male
+791,Tiger cat,Dasyurus maculatus,25,Female
+792,"Seal, harbor",Phoca vitulina,24,Male
+793,Pied butcher bird,Cracticus nigroagularis,10,Female
+794,"Hornbill, yellow-billed",Tockus flavirostris,27,Female
+795,"Colobus, magistrate black",Colobus guerza,12,Male
+796,Indian leopard,Panthera pardus,11,Male
+797,"Monitor, white-throated",Varanus albigularis,2,Male
+798,Raccoon dog,Nyctereutes procyonoides,9,Polygender
+799,"Catfish, blue",Ictalurus furcatus,1,Genderfluid
+800,"Robin, kalahari scrub",Certotrichas paena,21,Female
+801,"Kingfisher, pied",Ceryle rudis,20,Male
+802,Small-spotted genet,Genetta genetta,9,Male
+803,Raccoon dog,Nyctereutes procyonoides,4,Male
+804,Tailless tenrec,Tenrec ecaudatus,30,Male
+805,Dusky gull,Larus fuliginosus,29,Male
+806,Southern white-crowned shrike,Eurocephalus anguitimens,13,Male
+807,American bison,Bison bison,2,Female
+808,Burchell's gonolek,Laniaurius atrococcineus,6,Female
+809,Warthog,Phacochoerus aethiopus,1,Male
+810,"White-eye, pale",Zosterops pallidus,21,Female
+811,"Waterbuck, common",Kobus defassa,28,Female
+812,"White-eye, cape",Zosterops pallidus,9,Female
+813,Capybara,Hydrochoerus hydrochaeris,18,Male
+814,"Wolf, common",Canis lupus,13,Female
+815,"Lion, african",Panthera leo,1,Female
+816,Suricate,Suricata suricatta,21,Female
+817,Giant armadillo,Priodontes maximus,24,Male
+818,"Beaver, eurasian",Castor fiber,26,Male
+819,Black-cheeked waxbill,Estrilda erythronotos,5,Female
+820,"Vulture, bengal",Gyps bengalensis,19,Female
+821,Western grey kangaroo,Macropus fuliginosus,28,Female
+822,Common duiker,Sylvicapra grimma,7,Male
+823,"Lizard, giant girdled",Cordylus giganteus,28,Female
+824,Arctic hare,Lepus arcticus,25,Female
+825,"Moorhen, purple",Porphyrio porphyrio,15,Female
+826,Grant's gazelle,Gazella granti,1,Female
+827,House sparrow,Passer domesticus,26,Female
+828,Slender loris,Loris tardigratus,16,Female
+829,"Squirrel, african bush",Paraxerus cepapi,7,Male
+830,"Armadillo, common long-nosed",Dasypus novemcinctus,8,Female
+831,Orca,Orcinus orca,30,Male
+832,Spotted wood sandpiper,Tringa glareola,22,Male
+833,Wood pigeon,Columba palumbus,24,Female
+834,"Racer, american",Coluber constrictor,1,Female
+835,Asian water dragon,Physignathus cocincinus,8,Female
+836,"Rhea, common",Rhea americana,28,Male
+837,"Hyena, brown",Hyaena brunnea,22,Female
+838,Malachite kingfisher,Corythornis cristata,5,Male
+839,"Openbill, asian",Anastomus oscitans,26,Male
+840,"Butterfly, canadian tiger swallowtail",Papilio canadensis,10,Non-binary
+841,Azara's zorro,Pseudalopex gymnocercus,10,Female
+842,"Dove, white-winged",Zenaida asiatica,24,Male
+843,Grey heron,Ardea cinerea,14,Male
+844,"Jacana, african",Actophilornis africanus,11,Male
+845,Bobcat,Felis rufus,30,Male
+846,Woodchuck,Marmota monax,11,Female
+847,"Squirrel, palm",Funambulus pennati,8,Male
+848,Crested barbet,Trachyphonus vaillantii,15,Female
+849,"Cow, scottish highland",Bos taurus,7,Male
+850,"Pelican, eastern white",Pelecans onocratalus,6,Male
+851,American beaver,Castor canadensis,6,Male
+852,"Partridge, coqui",Francolinus coqui,29,Bigender
+853,Pied cormorant,Phalacrocorax varius,3,Male
+854,"Peccary, white-lipped",Tayassu pecari,21,Male
+855,Tarantula,Lasiodora parahybana,14,Female
+856,"Skua, great",Catharacta skua,2,Female
+857,"Boar, wild",Sus scrofa,30,Male
+858,"Fox, north american red",Vulpes vulpes,3,Male
+859,White-browed sparrow weaver,Plocepasser mahali,15,Female
+860,"Heron, little",Butorides striatus,18,Male
+861,"Lion, south american sea",Otaria flavescens,7,Male
+862,Andean goose,Chloephaga melanoptera,29,Female
+863,"Plover, three-banded",Charadrius tricollaris,6,Female
+864,Kirk's dik dik,Madoqua kirkii,10,Male
+865,Rainbow lory,Trichoglossus haematodus moluccanus,25,Male
+866,Dama wallaby,Macropus eugenii,24,Female
+867,European red squirrel,Sciurus vulgaris,2,Male
+868,"Eagle, white-bellied sea",Haliaetus leucogaster,5,Female
+869,"Snake, buttermilk",Coluber constrictor,24,Female
+870,Four-spotted skimmer,Libellula quadrimaculata,4,Male
+871,Agile wallaby,Macropus agilis,19,Male
+872,"Rattlesnake, eastern diamondback",Crotalus adamanteus,28,Female
+873,Australian sea lion,Neophoca cinerea,25,Male
+874,Masked booby,Sula dactylatra,26,Female
+875,Glossy ibis,Plegadis falcinellus,19,Female
+876,Caracal,Felis caracal,25,Female
+877,Puma,Felis concolor,25,Female
+878,"Cormorant, neotropic",Phalacrocorax brasilianus,21,Female
+879,"Heron, black-crowned night",Nycticorax nycticorax,9,Bigender
+880,American racer,Coluber constrictor,17,Female
+881,Ringtail,Bassariscus astutus,10,Female
+882,Ring-tailed coatimundi,Nasua nasua,9,Female
+883,"Kangaroo, jungle",Macropus agilis,6,Female
+884,"Nighthawk, common",Chordeiles minor,5,Female
+885,Greater flamingo,Phoenicopterus ruber,15,Agender
+886,Kinkajou,Potos flavus,3,Male
+887,Nilgai,Boselaphus tragocamelus,8,Female
+888,Meerkat,Suricata suricatta,19,Female
+889,Red-billed hornbill,Tockus erythrorhyncus,12,Female
+890,"Booby, blue-faced",Sula dactylatra,27,Male
+891,Yellow-bellied marmot,Marmota flaviventris,15,Male
+892,"Eagle, bateleur",Terathopius ecaudatus,9,Female
+893,Harbor seal,Phoca vitulina,13,Male
+894,"Dragon, western bearded",Amphibolurus barbatus,16,Agender
+895,House sparrow,Passer domesticus,22,Female
+896,"Sandpiper, spotted wood",Tringa glareola,12,Male
+897,Mexican boa,Boa constrictor mexicana,28,Female
+898,Red brocket,Mazama americana,15,Genderfluid
+899,Topi,Damaliscus lunatus,9,Male
+900,Little brown bat,Myotis lucifugus,24,Male
+901,"Robin, kalahari scrub",Certotrichas paena,18,Female
+902,Puma,Felis concolor,25,Male
+903,Canadian river otter,Lutra canadensis,25,Non-binary
+904,"Macaque, rhesus",Macaca mulatta,12,Male
+905,Southern ground hornbill,Bucorvus leadbeateri,25,Male
+906,"Boar, wild",Sus scrofa,15,Male
+907,"Fox, savanna",Dusicyon thous,4,Female
+908,"Weaver, sociable",Philetairus socius,10,Female
+909,"Lizard, collared",Crotaphytus collaris,16,Female
+910,"Boa, malagasy ground",Acrantophis madagascariensis,23,Female
+911,Musk ox,Ovibos moschatus,15,Male
+912,"Francolin, swainson's",Francolinus swainsonii,17,Female
+913,Plains zebra,Equus burchelli,7,Female
+914,"Bettong, brush-tailed",Bettongia penicillata,20,Male
+915,Magnificent frigate bird,Fregata magnificans,5,Female
+916,Pied cormorant,Phalacrocorax varius,14,Female
+917,Sulfur-crested cockatoo,Cacatua galerita,14,Male
+918,Tailless tenrec,Tenrec ecaudatus,2,Female
+919,"Gonolek, burchell's",Laniaurius atrococcineus,19,Non-binary
+920,Red-billed toucan,Ramphastos tucanus,3,Female
+921,"Brocket, brown",Mazama gouazoubira,15,Female
+922,"Shark, blue",Prionace glauca,25,Female
+923,"Kudu, greater",Tragelaphus strepsiceros,5,Female
+924,Rufous-collared sparrow,Zonotrichia capensis,19,Male
+925,"Langur, hanuman",Semnopithecus entellus,3,Female
+926,Brazilian otter,Pteronura brasiliensis,1,Male
+927,"Otter, oriental short-clawed",Aonyx cinerea,12,Female
+928,Goliath heron,Ardea golieth,12,Female
+929,Squirrel glider,Petaurus norfolcensis,14,Male
+930,"Dik, kirk's dik",Madoqua kirkii,17,Female
+931,"Coot, red-knobbed",Fulica cristata,13,Male
+932,Sarus crane,Grus antigone,7,Female
+933,"Sloth, two-toed tree",Choloepus hoffmani,16,Male
+934,"Brocket, red",Mazama americana,18,Male
+935,"Sifaka, verreaux's",Propithecus verreauxi,26,Male
+936,"Hen, sage",Centrocercus urophasianus,9,Female
+937,"Vulture, oriental white-backed",Gyps bengalensis,8,Male
+938,"Fox, grey",Vulpes cinereoargenteus,14,Female
+939,Southern right whale,Eubalaena australis,29,Female
+940,"Cat, european wild",Felis silvestris lybica,19,Non-binary
+941,"Goose, greylag",Anser anser,17,Male
+942,"Lemur, ring-tailed",Lemur catta,23,Female
+943,Blue and gold macaw,Ara ararauna,29,Female
+944,"Vulture, white-rumped",Gyps bengalensis,21,Female
+945,Blue-faced booby,Sula dactylatra,8,Male
+946,Cape white-eye,Zosterops pallidus,24,Polygender
+947,"Cockatoo, red-tailed",Calyptorhynchus magnificus,2,Female
+948,Greater kudu,Tragelaphus strepsiceros,25,Female
+949,Hawk-headed parrot,Deroptyus accipitrinus,2,Male
+950,"Fowl, helmeted guinea",Numida meleagris,19,Male
+951,Black bear,Ursus americanus,16,Polygender
+952,Burrowing owl,Speotyte cuniculata,2,Bigender
+953,"Ibis, sacred",Threskionis aethiopicus,14,Male
+954,"Lion, south american sea",Otaria flavescens,15,Female
+955,"Screamer, southern",Chauna torquata,9,Male
+956,Large-eared bushbaby,Galago crassicaudataus,26,Female
+957,"Monitor, white-throated",Varanus albigularis,5,Male
+958,Leopard,Panthera pardus,26,Female
+959,Horned rattlesnake,Crotalus cerastes,18,Female
+960,Long-crested hawk eagle,Lophoaetus occipitalis,26,Male
+961,"Stork, openbill",Anastomus oscitans,13,Female
+962,American racer,Coluber constrictor,9,Female
+963,"Albatross, galapagos",Diomedea irrorata,27,Female
+964,Snake (unidentified),unavailable,8,Male
+965,Manatee,Trichechus inunguis,8,Male
+966,Eurasian beaver,Castor fiber,26,Female
+967,"Mynah, indian",Acridotheres tristis,7,Female
+968,Azara's zorro,Pseudalopex gymnocercus,11,Female
+969,Giraffe,Giraffe camelopardalis,12,Male
+970,Indian giant squirrel,Ratufa indica,12,Female
+971,Red-knobbed coot,Fulica cristata,5,Genderfluid
+972,Dusky rattlesnake,Crotalus triseriatus,1,Male
+973,Timber wolf,Canis lupus lycaon,28,Male
+974,Bird (unidentified),unavailable,13,Female
+975,"Owl, burrowing",Speotyte cuniculata,30,Female
+976,"Bird, black-throated butcher",Cracticus nigroagularis,21,Female
+977,"Goose, knob-nosed",Sarkidornis melanotos,4,Female
+978,Butterfly (unidentified),unavailable,28,Agender
+979,Swamp deer,Cervus duvauceli,14,Agender
+980,"Hornbill, yellow-billed",Tockus flavirostris,30,Male
+981,"Cat, native",Dasyurus viverrinus,6,Male
+982,Caracal,Felis caracal,1,Female
+983,European shelduck,Tadorna tadorna,22,Male
+984,Horned rattlesnake,Crotalus cerastes,19,Polygender
+985,Little blue penguin,Eudyptula minor,23,Male
+986,Western patch-nosed snake,Salvadora hexalepis,6,Male
+987,Roseate cockatoo,Eolophus roseicapillus,23,Male
+988,Paradoxure,Paradoxurus hermaphroditus,20,Female
+989,Jungle kangaroo,Macropus agilis,24,Male
+990,Laughing dove,Streptopelia senegalensis,18,Male
+991,Black-throated butcher bird,Cracticus nigroagularis,17,Male
+992,"Weaver, sociable",Philetairus socius,28,Male
+993,"Anteater, australian spiny",Tachyglossus aculeatus,12,Male
+994,"Wallaby, euro",Macropus robustus,4,Male
+995,"Turkey, common",Meleagris gallopavo,5,Male
+996,"Legaan, ground",Varanus sp.,3,Female
+997,Short-nosed bandicoot,Isoodon obesulus,25,Genderfluid
+998,Mule deer,Odocoileus hemionus,28,Genderfluid
+999,"Macaque, japanese",Macaca fuscata,6,Female
+1000,"Wagtail, african pied",Motacilla aguimp,9,Male

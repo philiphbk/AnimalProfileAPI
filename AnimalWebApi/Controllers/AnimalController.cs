@@ -12,10 +12,12 @@ namespace AnimalWebApi.Controllers
     {
         
         private readonly IUnitOfWork _unitOfWork;
+        private readonly Pagination _pagination;
 
-        public AnimalController(IUnitOfWork unitOfWork)
+        public AnimalController(IUnitOfWork unitOfWork, Pagination pagination)
         {
             _unitOfWork = unitOfWork;
+            _pagination = pagination;
         }
 
 
@@ -26,6 +28,7 @@ namespace AnimalWebApi.Controllers
         {
             try
             {
+                
                 var animals =  await _unitOfWork.Animals.GetAll();
                 return Ok(animals);
             }

@@ -53,6 +53,10 @@
               "target": "Package",
               "version": "[11.0.0, )"
             },
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[28.0.1, )"
+            },
             "IronXL.Excel": {
               "target": "Package",
               "version": "[2022.9.8711, )"
