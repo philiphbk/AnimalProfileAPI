@@ -12,11 +12,55 @@ namespace AnimalWebApi.Seeder
                 new Animal
                 {
                     Id = 1,
-                    PetName = "Jojo",
-                    Breed = "",
+                    PetName = "Cat",
+                    Breed = "Abyssinian",
                     Age = 10,
-                    Description = ""
-                }
+                    Description = "The Abyssinian /æbɪˈsɪniən/ is a breed of domestic short-haired cat with a distinctive \"ticked\" " +
+                                  "tabby coat, in which individual hairs are banded with different colors.[2] " +
+                                  "They are also known simply as Abys."
+                },
+                new Animal
+                {
+                    Id = 2,
+                    PetName = "Cat",
+                    Breed = "Aegean",
+                    Age = 13,
+                    Description = "Aegean cats (Greek: γάτα του Αιγαίου gáta tou Aigaíou) are a naturally occurring " +
+                                  "landrace of domestic cat originating from the Cycladic Islands of Greece and western Turkey. " +
+                                  "It is considered a natural cat, developing" +
+                                  " without human interference.[1] Development of the Aegean cat as a formal " +
+                                  "breed began in the early 1990s by breeders in the fledgling Greek cat fancy, but " +
+                                  "the variety has yet to be recognized by any major fancier and breeder organization. " +
+                                  "It is considered to be the only native Greek variety of cat."
+                },
+                new Animal
+                {
+                    Id = 2,
+                    PetName = "Cat",
+                    Breed = "Aegean",
+                    Age = 13,
+                    Description = "Aegean cats (Greek: γάτα του Αιγαίου gáta tou Aigaíou) are a naturally occurring " +
+                                  "landrace of domestic cat originating from the Cycladic Islands of Greece and western Turkey. " +
+                                  "It is considered a natural cat, developing" +
+                                  " without human interference.[1] Development of the Aegean cat as a formal " +
+                                  "breed began in the early 1990s by breeders in the fledgling Greek cat fancy, but " +
+                                  "the variety has yet to be recognized by any major fancier and breeder organization. " +
+                                  "It is considered to be the only native Greek variety of cat."
+                },
+                new Animal
+                {},
+                new Animal {},
+                new Animal {},
+                new Animal {},
+                new Animal {},
+                new Animal {},
+                new Animal {},
+                new Animal {},
+                new Animal {},
+                new Animal {},
+                new Animal {},
+                new Animal {}
+                
             );
         } 
     }
