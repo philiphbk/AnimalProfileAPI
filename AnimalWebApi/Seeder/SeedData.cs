@@ -1,17 +1,33 @@
 ﻿using AnimalWebApi.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
+using IronXL;
 
 namespace AnimalWebApi.Seeder
 {
-    public class SeedData: IEntityTypeConfiguration<Animal>
+    public class SeedData /*IEntityTypeConfiguration<Animal>*/
     {
+        
+        
+        
+        
+        
+       /* 
+        private List<Animal> animals = File.ReadAllLines("C:\Users\damif\Downloads\MOCK_DATA.csv")
+                                            .Skip(1)
+                                            .ToList();
+
         public void Configure(EntityTypeBuilder<Animal> builder)
         {
             builder.HasData(
+                
                 new Animal
                 {
-                    Id = 1,
+                    animals
+                }*/
+                /*new Animal
+                {
+                    Id = "1",
                     PetName = "Cat",
                     Breed = "Abyssinian",
                     Age = 10,
@@ -21,7 +37,7 @@ namespace AnimalWebApi.Seeder
                 },
                 new Animal
                 {
-                    Id = 2,
+                    Id = "2",
                     PetName = "Cat",
                     Breed = "Aegean",
                     Age = 13,
@@ -35,7 +51,7 @@ namespace AnimalWebApi.Seeder
                 },
                 new Animal
                 {
-                    Id = 2,
+                    Id = "3",
                     PetName = "Cat",
                     Breed = "Aegean",
                     Age = 13,
@@ -47,21 +63,9 @@ namespace AnimalWebApi.Seeder
                                   "the variety has yet to be recognized by any major fancier and breeder organization. " +
                                   "It is considered to be the only native Greek variety of cat."
                 },
-                new Animal
-                {},
-                new Animal {},
-                new Animal {},
-                new Animal {},
-                new Animal {},
-                new Animal {},
-                new Animal {},
-                new Animal {},
-                new Animal {},
-                new Animal {},
-                new Animal {},
-                new Animal {}
+                
                 
             );
-        } 
+        } */
     }
 }

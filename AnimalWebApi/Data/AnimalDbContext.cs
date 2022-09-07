@@ -12,7 +12,7 @@ namespace AnimalWebApi.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.ApplyConfiguration(new SeedData());
+           /* modelBuilder.ApplyConfiguration(new SeedData());*/
             base.OnModelCreating(modelBuilder);
         }
 

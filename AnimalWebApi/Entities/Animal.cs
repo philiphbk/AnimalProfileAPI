@@ -5,7 +5,7 @@ namespace AnimalWebApi.Entities
     public class Animal
     {
         [Required]
-        public int Id { get; set; }
+        public string Id { get; set; }
 
         [Required]
         [StringLength(30)]
@@ -16,7 +16,7 @@ namespace AnimalWebApi.Entities
         public string? Breed { get; set; }
         
         [Required]
-        public int Age { get; set; }
+        public string? Age { get; set; }
 
         [Required]
         [MaxLength (600)]
